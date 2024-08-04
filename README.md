@@ -1,5 +1,5 @@
 # WeatherApp
-### Created by Mirsaid Abdullaev, Aahil Namajee, Firas Layani and Anoushka
+### Created by Mirsaid Abdullaev, Aahil Namajee, Firas Layani and Anoushka Razdan
 ### G-Research, Quant Finance and Tech Work Experience 2024
 ### Best project out of all other teams, as voted by panel of G-Research engineers
 
